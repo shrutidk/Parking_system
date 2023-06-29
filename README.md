@@ -6,8 +6,8 @@ Any user can sign up to our parking management system.
 
 POST: login/
 {
-    "username": "shruti",
-    "password":"shruti@123",
+    "username": "abc",
+    "password":"abc@123",
     "email":"sk@yopmail.com"
 }
 
